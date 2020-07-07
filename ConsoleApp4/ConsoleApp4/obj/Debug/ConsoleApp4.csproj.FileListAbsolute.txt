@@ -19,3 +19,7 @@ C:\source\csharp15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyR
 C:\source\csharp15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 C:\source\csharp15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\source\csharp15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\source\LackOfCohesion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\source\LackOfCohesion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\source\LackOfCohesion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\source\LackOfCohesion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
