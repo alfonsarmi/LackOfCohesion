@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp4
 {
 
-	public class NumberManipulatorFile
+	public class NumberManipulatorFile 
 	{
 		public NumberManipulatorFile()
 		{
@@ -20,8 +20,6 @@ namespace ConsoleApp4
 		public int NumberValue => _number;
 
 		public void AddOne() => _number++;
-
-		public void SubtractOne() => _number--;
 
 		public int testproperty
 		{
@@ -44,16 +42,4 @@ namespace ConsoleApp4
 			test = 0;
 		}
 	}
-
-	public class NonCohesiveNumberManipulator
-	{
-		private int _firstNumber;
-		private int _secondNumber;
-		private int _thirdNumber;
-
-		public void IncrementFirst() => _firstNumber++;
-		public void IncrementSecond() => _secondNumber++;
-		public void IncrementThird() => _thirdNumber++;
-	}
-
 }
