@@ -16,5 +16,8 @@ namespace ConsoleApp4
     {
         private void test()
         { }
+
+        private void test2()
+        { }
     }
 }
