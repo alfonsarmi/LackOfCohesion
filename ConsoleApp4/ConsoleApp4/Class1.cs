@@ -11,4 +11,10 @@ namespace ConsoleApp4
         private void test()
         { }
     }
+
+    class Class12
+    {
+        private void test()
+        { }
+    }
 }
